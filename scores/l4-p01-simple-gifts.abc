@@ -1,0 +1,15 @@
+X:1
+T:Simple Gifts
+M:4/4
+L:1/4
+Q:1/4=60
+%%score {RH | LH}
+V:RH clef=treble
+V:LH clef=bass
+K:C
+[V:RH] !mf!z z | (!1!C2 C D | E C E F | G2 G F | E2) (D C | D2 D2 |
+[V:LH] !1!G,2 | [!5!C,!3!E,!1!G,]4- | [C,E,G,]4- | [C,E,G,]4- | [C,E,G,]2 z2 | [!5!B,,!2!F,!1!G,]4- |
+[V:RH] D2 C2 | D E D !1!B,) | z4 | (!1!C2 C D | E C E F |
+[V:LH] [B,,F,G,]4- | [B,,F,G,]2 z2 | G,2 G,2 | [!5!C,!3!E,!1!G,]4- | [C,E,G,]4- |
+[V:RH] G2 G F | E2) (D C | D2 D2 | E2 E D | C2 C2 | C2) |]
+[V:LH] [C,E,G,]4- | [C,E,G,]2 z2 | [!5!B,,!2!F,!1!G,]4- | [B,,F,G,]2 z2 | [C,E,G,]4- | [C,E,G,]2 |]

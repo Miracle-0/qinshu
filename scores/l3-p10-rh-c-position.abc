@@ -1,0 +1,13 @@
+X:1
+T:右手 C 的五指位置视奏练习
+M:C
+L:1/4
+Q:"Moderate" 1/4=60
+%%score {RH | LH}
+V:RH clef=treble
+V:LH clef=bass
+K:C
+[V:RH] !mf!!1!!<(!C D E F | G F E2 | D2 E2 | !<)!F4 |
+[V:LH] z4 | z4 | z4 | z4 |
+[V:RH] !>(!G F E D | E D C2 | D2 D2 | !>)!C4 |]
+[V:LH] z4 | z4 | z4 | z4 |]

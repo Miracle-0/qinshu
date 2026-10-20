@@ -1,0 +1,13 @@
+X:1
+T:混合音程视奏练习
+M:4/4
+L:1/4
+Q:"Moderato" 1/4=60
+%%score {RH | LH}
+V:RH clef=treble
+V:LH clef=bass
+K:C
+[V:RH] !mf!(!5!G G !3!E | C4- | C) (G G E | F4- |
+[V:LH] z z2 | [!5!C,!1!G,]2 [D,G,]2 | [E,G,] z z2 | [!4!D,!1!G,]2 [E,G,]2 |
+[V:RH] F) (G G E | D4- | D) (G G E | C4- | C) |]
+[V:LH] [F,G,] z z2 | [!2!F,!1!G,]2 [E,G,]2 | [D,G,] z z2 | [!3!E,!1!G,]2 [D,G,]2 | [C,G,] |]

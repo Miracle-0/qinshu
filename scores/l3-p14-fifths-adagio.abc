@@ -1,0 +1,13 @@
+X:1
+T:五度音程视奏练习（Adagio，双手）
+M:4/4
+L:1/4
+Q:"Adagio" 1/4=60
+%%score {RH | LH}
+V:RH clef=treble
+V:LH clef=bass
+K:C
+[V:RH] !mf!z !3!E E D | E C C2 | z E E "^5th"C | G4 |
+[V:LH] "_5th"[!5!C,!1!G,]4- | [C,G,]3 [C,G,] | [C,G,]4- | [C,G,]2 [C,G,] [C,G,] |
+[V:RH] z E E D | E C C2 | z E E G | C4 |]
+[V:LH] [C,G,]4- | [C,G,]3 [C,G,] | [C,G,]4- | [C,G,]4 |]

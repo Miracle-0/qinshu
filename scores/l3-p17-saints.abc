@@ -1,0 +1,15 @@
+X:1
+T:When the Saints Go Marching In
+M:4/4
+L:1/4
+Q:"March time" 1/4=60
+%%score {RH | LH}
+V:RH clef=treble
+V:LH clef=bass
+K:C
+[V:RH] !f!(!1!C !3!E F | G4- | G) (C E F | G4- | G) (C E F | G2 E2 | C2 E2 | D4- | D2) (!3!E D |
+w: Oh, when the saints * go march-ing in, * Oh, when the saints go march-ing in, * How I
+[V:LH] z z2 | [!5!C,!1!G,]2 [C,G,]2 | [C,G,] z z2 | [C,G,]2 [C,G,]2 | [C,G,] z z2 | [C,G,]4 | [!3!E,!1!G,]4 | [!2!F,!1!G,]2 [F,G,]2 | [F,G,]2 z2 |
+[V:RH] C3 C | E2 G G | G F3- | F2) (!3!E F | G2 E2 | C2 D2 | C4- | C) |]
+w: want to be in that num-ber, * when the saints go march-ing in. *
+[V:LH] [E,G,]4 | [E,G,]4 | z2 F,2 | F,2 z2 | [E,G,]4 | [E,G,]2 [F,G,]2 | [E,G,]2 [!4!D,!1!G,]2 | [C,G,] |]

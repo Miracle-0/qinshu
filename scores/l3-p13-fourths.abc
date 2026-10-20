@@ -1,0 +1,14 @@
+X:1
+T:四度音程视奏练习
+C:Traditional
+M:4/4
+L:1/4
+Q:"Moderato" 1/4=60
+%%score {RH | LH}
+V:RH clef=treble
+V:LH clef=bass
+K:C
+[V:RH] !mp!("^4th"!1!C F E F | G D G2) | (F E D E | F4) |
+[V:LH] z4 | z4 | z4 | z4 |
+[V:RH] z4 | z4 | z4 | z4 |]
+[V:LH] ("^4th"!5!C, F, E, F, | G, D, G,2) | (F, E, D, E, | F,4) |]

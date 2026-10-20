@@ -1,0 +1,13 @@
+X:1
+T:五度音程视奏练习（3/4）
+M:3/4
+L:1/4
+Q:"Moderate" 1/4=60
+%%score {RH | LH}
+V:RH clef=treble
+V:LH clef=bass
+K:C
+[V:RH] !mf!!<(!!5!G3 | !1!C3 | [!1!C!5!G]2 [CG] | !<)![CG]3 |
+[V:LH] z3 | z3 | z3 | z3 |
+[V:RH] !>(!C3 | !5!G3 | G2 G | !>)!C3 |]
+[V:LH] z3 | z3 | z3 | z3 |]

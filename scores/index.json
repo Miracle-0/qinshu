@@ -1,0 +1,133 @@
+{
+  "version": 1,
+  "collections": [
+    { "id": "basics", "title": "基础练习", "pieces": ["basic-single", "basic-dyad"] },
+    {
+      "id": "lecture-3",
+      "title": "Lecture 3",
+      "pieces": ["l3-p07a", "l3-p07b", "l3-p08a", "l3-p08b", "l3-p09-fifths-34", "l3-p10-rh-c-position", "l3-p11-lh-c-position", "l3-p12-thirds", "l3-p13-fourths", "l3-p14-fifths-adagio", "l3-p15-mixed", "l3-p16-chimes", "l3-p17-saints"]
+    },
+    { "id": "lecture-4", "title": "Lecture 4", "pieces": ["l4-p01-simple-gifts", "l4-p02-jolly-good-fellow"] }
+  ],
+  "pieces": {
+    "basic-single": {
+      "title": "基础练习：单音",
+      "source": "使用者测试录音 1",
+      "file": "basic-single.abc",
+      "targetBpm": 80,
+      "tags": ["基础", "单音"]
+    },
+    "basic-dyad": {
+      "title": "基础练习：双音",
+      "source": "使用者测试录音 2",
+      "file": "basic-dyad.abc",
+      "targetBpm": 80,
+      "tags": ["基础", "双音"]
+    },
+    "l3-p07a": {
+      "title": "弹出指定音程（右手）一",
+      "source": "Lecture 3 第 7 页",
+      "file": "l3-p07a.abc",
+      "targetBpm": 80,
+      "tags": ["音程", "右手"]
+    },
+    "l3-p07b": {
+      "title": "弹出指定音程（右手）二",
+      "source": "Lecture 3 第 7 页",
+      "file": "l3-p07b.abc",
+      "targetBpm": 80,
+      "tags": ["音程", "右手"]
+    },
+    "l3-p08a": {
+      "title": "弹出指定音程（左手）一",
+      "source": "Lecture 3 第 8 页",
+      "file": "l3-p08a.abc",
+      "targetBpm": 80,
+      "tags": ["音程", "左手"]
+    },
+    "l3-p08b": {
+      "title": "弹出指定音程（左手）二",
+      "source": "Lecture 3 第 8 页",
+      "file": "l3-p08b.abc",
+      "targetBpm": 80,
+      "tags": ["音程", "左手"]
+    },
+    "l3-p09-fifths-34": {
+      "title": "五度音程视奏练习（3/4）",
+      "source": "Lecture 3 第 9 页",
+      "file": "l3-p09-fifths-34.abc",
+      "targetBpm": 80,
+      "tags": ["五度", "右手", "3/4"]
+    },
+    "l3-p10-rh-c-position": {
+      "title": "右手 C 的五指位置视奏练习",
+      "source": "Lecture 3 第 10 页",
+      "file": "l3-p10-rh-c-position.abc",
+      "targetBpm": 80,
+      "tags": ["五指位置", "右手"]
+    },
+    "l3-p11-lh-c-position": {
+      "title": "左手 C 的五指位置视奏练习",
+      "source": "Lecture 3 第 11 页",
+      "file": "l3-p11-lh-c-position.abc",
+      "targetBpm": 80,
+      "tags": ["五指位置", "左手", "反复"]
+    },
+    "l3-p12-thirds": {
+      "title": "三度音程视奏练习",
+      "source": "Lecture 3 第 12 页",
+      "file": "l3-p12-thirds.abc",
+      "targetBpm": 80,
+      "tags": ["三度", "两手轮流"]
+    },
+    "l3-p13-fourths": {
+      "title": "四度音程视奏练习",
+      "source": "Lecture 3 第 13 页",
+      "file": "l3-p13-fourths.abc",
+      "targetBpm": 80,
+      "tags": ["四度", "两手轮流"]
+    },
+    "l3-p14-fifths-adagio": {
+      "title": "五度音程视奏练习（Adagio，双手）",
+      "source": "Lecture 3 第 14 页",
+      "file": "l3-p14-fifths-adagio.abc",
+      "targetBpm": 80,
+      "tags": ["五度", "双手", "延音线"]
+    },
+    "l3-p15-mixed": {
+      "title": "混合音程视奏练习",
+      "source": "Lecture 3 第 15 页",
+      "file": "l3-p15-mixed.abc",
+      "targetBpm": 80,
+      "tags": ["混合音程", "双手", "弱起"]
+    },
+    "l3-p16-chimes": {
+      "title": "Chimes",
+      "source": "Lecture 3 第 16 页",
+      "file": "l3-p16-chimes.abc",
+      "targetBpm": 80,
+      "tags": ["双手", "和弦", "踏板"]
+    },
+    "l3-p17-saints": {
+      "title": "When the Saints Go Marching In",
+      "source": "Lecture 3 第 17 页",
+      "file": "l3-p17-saints.abc",
+      "targetBpm": 80,
+      "tags": ["双手", "弱起", "歌词"]
+    },
+    "l4-p01-simple-gifts": {
+      "title": "Simple Gifts",
+      "source": "Lecture 4 第 1 页",
+      "file": "l4-p01-simple-gifts.abc",
+      "targetBpm": 80,
+      "tags": ["双手", "和弦", "弱起", "延音线"]
+    },
+    "l4-p02-jolly-good-fellow": {
+      "title": "For He's a Jolly Good Fellow",
+      "source": "Lecture 4 第 2 页",
+      "file": "l4-p02-jolly-good-fellow.abc",
+      "targetBpm": 80,
+      "tags": ["左手旋律", "和弦", "3/4", "弱起"]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+X:1
+T:基础练习：单音
+M:4/4
+L:1/4
+Q:1/4=60
+%%score {RH | LH}
+V:RH clef=treble
+V:LH clef=bass
+K:C
+[V:RH] C z D z | E z F z | G z z2 | C z C z | C z C z |]
+[V:LH] z4 | z4 | z4 | z4 | z4 |]

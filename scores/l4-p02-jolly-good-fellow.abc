@@ -1,0 +1,15 @@
+X:1
+T:For He's a Jolly Good Fellow
+M:3/4
+L:1/4
+Q:1/4=60
+%%score {RH | LH}
+V:RH clef=treble
+V:LH clef=bass
+K:C
+[V:RH] !mf!z | z3 | z3 | z !p![!1!C!3!F!5!A] [CFA] | z3 | z3 |
+[V:LH] (!5!C, | E,2 E, | E, D, E, | F,3 | E,2) (E, | D,2 D, |
+[V:RH] z3 | z [CEG] [CEG] | z3 | z3 | z3 |
+[V:LH] D, C, D, | E,3 | C,2) (C, | E,2 E, | E, D, E, |
+[V:RH] z [CFA] [CFA] | !fermata![CFA]2 z | z3 | z3 | z [CEG] [CEG] | [CEG]2 |]
+[V:LH] F,3 | !fermata!!1!A,2) (A, | !2!G, G, !1!G, | F,2 D, | C,3- | C,2) |]

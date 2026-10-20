@@ -1,0 +1,13 @@
+X:1
+T:Chimes
+M:3/4
+L:1/4
+Q:1/4=60
+%%score {RH | LH}
+V:RH clef=treble
+V:LH clef=bass
+K:C
+[V:RH] !mf!!3!E C D | z3 | z D E | C3 | E D C | z3 | z D E | C3 |
+[V:LH] z3 | !1!G,3 | G, z z | z3 | z3 | G,3 | G, z z | z3 |
+[V:RH] !f![!1!C!3!E]3 | !mf![CE]3 | !mp![CE]3- | [CE]3 y |]
+[V:LH] "_Ped."[!5!C,!1!G,]3 | [C,G,]3 | [C,G,]3- | [C,G,]3 "_*"y |]
