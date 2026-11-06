@@ -1,0 +1,321 @@
+{
+  "version": 1,
+  "collections": [
+    {
+      "id": "lecture-6",
+      "title": "Lecture 6",
+      "pieces": ["l6-p02-c-major-contrary", "l6-p03-c-major-parallel", "l6-p07-sight-reading-1", "l6-p08-sight-reading-2", "l6-s01a-intervals", "l6-s01b-rh-arpeggios", "l6-s01c-lh-arpeggios", "l6-s03-beyer", "l6-s04a-pedal", "l6-s04b-pedal", "l6-s04c-old-smokey"],
+      "homework": ["l6-p02-c-major-contrary", "l6-p03-c-major-parallel", "l6-s03-beyer", "l6-s04c-old-smokey"]
+    },
+    {
+      "id": "lecture-5",
+      "title": "Lecture 5",
+      "pieces": ["l5-p03-rh-rhythm", "l5-p04-lh-rhythm", "l5-p05-rhythm-hands-1", "l5-p06-rhythm-hands-2", "l5-p08-rhythm-1", "l5-p09-rhythm-2", "l5-p11-rhythm-3", "l5-p12-rhythm-4", "l5-p14-a-harmonic-minor", "l5-p16-bartok", "l5-p17-czerny", "l5-p18-chords", "l5-s01-country-gardens", "l5-s02-scarborough-fair"],
+      "homework": ["l5-p14-a-harmonic-minor", "l5-s01-country-gardens", "l5-s02-scarborough-fair"]
+    },
+    { "id": "lecture-4", "title": "Lecture 4", "pieces": ["l4-p01-simple-gifts", "l4-p02-jolly-good-fellow"] },
+    {
+      "id": "lecture-3",
+      "title": "Lecture 3",
+      "pieces": ["l3-p07a", "l3-p07b", "l3-p08a", "l3-p08b", "l3-p09-fifths-34", "l3-p10-rh-c-position", "l3-p11-lh-c-position", "l3-p12-thirds", "l3-p13-fourths", "l3-p14-fifths-adagio", "l3-p15-mixed", "l3-p16-chimes", "l3-p17-saints"],
+      "homework": ["l3-p16-chimes", "l3-p17-saints"]
+    },
+    { "id": "basics", "title": "基础练习", "pieces": ["basic-single", "basic-dyad"] }
+  ],
+  "pieces": {
+    "basic-single": {
+      "title": "基础练习：单音",
+      "source": "使用者测试录音 1",
+      "file": "basic-single.abc",
+      "targetBpm": 80,
+      "tags": ["基础", "单音"]
+    },
+    "basic-dyad": {
+      "title": "基础练习：双音",
+      "source": "使用者测试录音 2",
+      "file": "basic-dyad.abc",
+      "targetBpm": 80,
+      "tags": ["基础", "双音"]
+    },
+    "l3-p07a": {
+      "title": "弹出指定音程（右手）一",
+      "source": "Lecture 3 第 7 页",
+      "file": "l3-p07a.abc",
+      "targetBpm": 80,
+      "tags": ["音程", "右手"]
+    },
+    "l3-p07b": {
+      "title": "弹出指定音程（右手）二",
+      "source": "Lecture 3 第 7 页",
+      "file": "l3-p07b.abc",
+      "targetBpm": 80,
+      "tags": ["音程", "右手"]
+    },
+    "l3-p08a": {
+      "title": "弹出指定音程（左手）一",
+      "source": "Lecture 3 第 8 页",
+      "file": "l3-p08a.abc",
+      "targetBpm": 80,
+      "tags": ["音程", "左手"]
+    },
+    "l3-p08b": {
+      "title": "弹出指定音程（左手）二",
+      "source": "Lecture 3 第 8 页",
+      "file": "l3-p08b.abc",
+      "targetBpm": 80,
+      "tags": ["音程", "左手"]
+    },
+    "l3-p09-fifths-34": {
+      "title": "五度音程视奏练习（3/4）",
+      "source": "Lecture 3 第 9 页",
+      "file": "l3-p09-fifths-34.abc",
+      "targetBpm": 108,
+      "tags": ["五度", "右手", "3/4"]
+    },
+    "l3-p10-rh-c-position": {
+      "title": "右手 C 的五指位置视奏练习",
+      "source": "Lecture 3 第 10 页",
+      "file": "l3-p10-rh-c-position.abc",
+      "targetBpm": 108,
+      "tags": ["五指位置", "右手"]
+    },
+    "l3-p11-lh-c-position": {
+      "title": "左手 C 的五指位置视奏练习",
+      "source": "Lecture 3 第 11 页",
+      "file": "l3-p11-lh-c-position.abc",
+      "targetBpm": 108,
+      "tags": ["五指位置", "左手", "反复"]
+    },
+    "l3-p12-thirds": {
+      "title": "三度音程视奏练习",
+      "source": "Lecture 3 第 12 页",
+      "file": "l3-p12-thirds.abc",
+      "targetBpm": 76,
+      "tags": ["三度", "两手轮流"]
+    },
+    "l3-p13-fourths": {
+      "title": "四度音程视奏练习",
+      "source": "Lecture 3 第 13 页",
+      "file": "l3-p13-fourths.abc",
+      "targetBpm": 108,
+      "tags": ["四度", "两手轮流"]
+    },
+    "l3-p14-fifths-adagio": {
+      "title": "五度音程视奏练习（Adagio，双手）",
+      "source": "Lecture 3 第 14 页",
+      "file": "l3-p14-fifths-adagio.abc",
+      "targetBpm": 66,
+      "tags": ["五度", "双手", "延音线"]
+    },
+    "l3-p15-mixed": {
+      "title": "混合音程视奏练习",
+      "source": "Lecture 3 第 15 页",
+      "file": "l3-p15-mixed.abc",
+      "targetBpm": 108,
+      "tags": ["混合音程", "双手", "弱起"]
+    },
+    "l3-p16-chimes": {
+      "title": "Chimes",
+      "source": "Lecture 3 第 16 页",
+      "file": "l3-p16-chimes.abc",
+      "targetBpm": 96,
+      "tags": ["双手", "和弦", "踏板"]
+    },
+    "l3-p17-saints": {
+      "title": "When the Saints Go Marching In",
+      "source": "Lecture 3 第 17 页",
+      "file": "l3-p17-saints.abc",
+      "targetBpm": 100,
+      "tags": ["双手", "弱起", "歌词"]
+    },
+    "l4-p01-simple-gifts": {
+      "title": "Simple Gifts",
+      "source": "Lecture 4 第 1 页",
+      "file": "l4-p01-simple-gifts.abc",
+      "targetBpm": 96,
+      "tags": ["双手", "和弦", "弱起", "延音线"]
+    },
+    "l4-p02-jolly-good-fellow": {
+      "title": "For He's a Jolly Good Fellow",
+      "source": "Lecture 4 第 2 页",
+      "file": "l4-p02-jolly-good-fellow.abc",
+      "targetBpm": 96,
+      "tags": ["左手旋律", "和弦", "3/4", "弱起"]
+    },
+    "l6-p02-c-major-contrary": {
+      "title": "C 大调音阶（反向）",
+      "source": "Lecture 6 课件第 2 页",
+      "file": "l6-p02-c-major-contrary.abc",
+      "targetBpm": 80,
+      "tags": ["音阶", "双手", "反向"]
+    },
+    "l6-p03-c-major-parallel": {
+      "title": "C 大调音阶（同向）",
+      "source": "Lecture 6 课件第 3 页",
+      "file": "l6-p03-c-major-parallel.abc",
+      "targetBpm": 80,
+      "tags": ["音阶", "双手", "同向", "换谱号"]
+    },
+    "l6-s04c-old-smokey": {
+      "title": "On Top of Old Smokey",
+      "source": "Lecture 6 谱子第 4 页",
+      "file": "l6-s04c-old-smokey.abc",
+      "targetBpm": 108,
+      "tags": ["双手", "和弦", "踏板", "3/4", "弱起"]
+    },
+    "l5-s02-scarborough-fair": {
+      "title": "Scarborough Fair",
+      "source": "Lecture 5 谱子第 2 页",
+      "file": "l5-s02-scarborough-fair.abc",
+      "targetBpm": 108,
+      "tags": ["双手", "3/4", "延音线", "延长记号"]
+    },
+    "l5-p16-bartok": {
+      "title": "练习曲（巴托克）",
+      "source": "Lecture 5 课件第 16 页",
+      "file": "l5-p16-bartok.abc",
+      "targetBpm": 108,
+      "tags": ["双手", "齐奏"]
+    },
+    "l5-p17-czerny": {
+      "title": "练习曲（车尔尼）",
+      "source": "Lecture 5 课件第 17 页",
+      "file": "l5-p17-czerny.abc",
+      "targetBpm": 66,
+      "tags": ["双手", "齐奏", "十六分音符", "断奏", "2/4"]
+    },
+    "l5-p18-chords": {
+      "title": "C 大调伴奏和弦预备练习",
+      "source": "Lecture 5 课件第 18 页",
+      "file": "l5-p18-chords.abc",
+      "targetBpm": 80,
+      "tags": ["和弦", "双手"]
+    },
+    "l6-p07-sight-reading-1": {
+      "title": "视奏练习 1",
+      "source": "Lecture 6 课件第 7 页",
+      "file": "l6-p07-sight-reading-1.abc",
+      "targetBpm": 80,
+      "tags": ["视奏", "双手"]
+    },
+    "l6-p08-sight-reading-2": {
+      "title": "视奏练习 2",
+      "source": "Lecture 6 课件第 8 页",
+      "file": "l6-p08-sight-reading-2.abc",
+      "targetBpm": 66,
+      "tags": ["视奏", "双手", "十六分音符", "2/4"]
+    },
+    "l6-s01a-intervals": {
+      "title": "双手音程练习",
+      "source": "Lecture 6 谱子第 1 页",
+      "file": "l6-s01a-intervals.abc",
+      "targetBpm": 80,
+      "tags": ["音程", "双手"]
+    },
+    "l6-s01b-rh-arpeggios": {
+      "title": "右手琶音练习",
+      "source": "Lecture 6 谱子第 1 页",
+      "file": "l6-s01b-rh-arpeggios.abc",
+      "targetBpm": 80,
+      "tags": ["琶音", "右手"]
+    },
+    "l6-s01c-lh-arpeggios": {
+      "title": "左手琶音练习",
+      "source": "Lecture 6 谱子第 1 页",
+      "file": "l6-s01c-lh-arpeggios.abc",
+      "targetBpm": 80,
+      "tags": ["琶音", "左手"]
+    },
+    "l6-s04a-pedal": {
+      "title": "延音踏板练习一",
+      "source": "Lecture 6 谱子第 4 页",
+      "file": "l6-s04a-pedal.abc",
+      "targetBpm": 72,
+      "tags": ["踏板", "左手"]
+    },
+    "l6-s04b-pedal": {
+      "title": "延音踏板练习二",
+      "source": "Lecture 6 谱子第 4 页",
+      "file": "l6-s04b-pedal.abc",
+      "targetBpm": 72,
+      "tags": ["踏板", "左手"]
+    },
+    "l5-s01-country-gardens": {
+      "title": "Country Gardens",
+      "source": "Lecture 5 谱子第 1 页",
+      "file": "l5-s01-country-gardens.abc",
+      "targetBpm": 108,
+      "tags": ["双手", "和弦", "反复", "D.C. al Fine"]
+    },
+    "l6-s03-beyer": {
+      "title": "练习曲（拜厄）",
+      "source": "Lecture 6 谱子第 3 页",
+      "file": "l6-s03-beyer.abc",
+      "targetBpm": 96,
+      "tags": ["双手", "3/4", "换谱号", "D.C. al Fine"]
+    },
+    "l5-p14-a-harmonic-minor": {
+      "title": "A 和声小调音阶（右手）",
+      "source": "Lecture 5 课件第 14、15 页",
+      "file": "l5-p14-a-harmonic-minor.abc",
+      "targetBpm": 80,
+      "tags": ["音阶", "右手", "和声小调"]
+    },
+    "l5-p03-rh-rhythm": {
+      "title": "右手节奏训练",
+      "source": "Lecture 5 课件第 3 页",
+      "file": "l5-p03-rh-rhythm.abc",
+      "targetBpm": 80,
+      "tags": ["节奏", "右手", "2/4"]
+    },
+    "l5-p04-lh-rhythm": {
+      "title": "左手节奏训练",
+      "source": "Lecture 5 课件第 4 页",
+      "file": "l5-p04-lh-rhythm.abc",
+      "targetBpm": 80,
+      "tags": ["节奏", "左手", "2/4"]
+    },
+    "l5-p05-rhythm-hands-1": {
+      "title": "双手节奏训练一",
+      "source": "Lecture 5 课件第 5 页",
+      "file": "l5-p05-rhythm-hands-1.abc",
+      "targetBpm": 80,
+      "tags": ["节奏", "双手", "3/4"]
+    },
+    "l5-p06-rhythm-hands-2": {
+      "title": "双手节奏训练二",
+      "source": "Lecture 5 课件第 6 页",
+      "file": "l5-p06-rhythm-hands-2.abc",
+      "targetBpm": 80,
+      "tags": ["节奏", "双手"]
+    },
+    "l5-p08-rhythm-1": {
+      "title": "节奏训练一",
+      "source": "Lecture 5 课件第 8 页",
+      "file": "l5-p08-rhythm-1.abc",
+      "targetBpm": 72,
+      "tags": ["节奏", "双手", "三连音"]
+    },
+    "l5-p09-rhythm-2": {
+      "title": "节奏训练二",
+      "source": "Lecture 5 课件第 9 页",
+      "file": "l5-p09-rhythm-2.abc",
+      "targetBpm": 72,
+      "tags": ["节奏", "双手", "三连音", "3/4"]
+    },
+    "l5-p11-rhythm-3": {
+      "title": "节奏训练三",
+      "source": "Lecture 5 课件第 11 页",
+      "file": "l5-p11-rhythm-3.abc",
+      "targetBpm": 66,
+      "tags": ["节奏", "两手轮流", "十六分音符", "2/4"]
+    },
+    "l5-p12-rhythm-4": {
+      "title": "节奏训练四",
+      "source": "Lecture 5 课件第 12 页",
+      "file": "l5-p12-rhythm-4.abc",
+      "targetBpm": 66,
+      "tags": ["节奏", "两手轮流", "十六分音符", "2/4"]
+    }
+  }
+}

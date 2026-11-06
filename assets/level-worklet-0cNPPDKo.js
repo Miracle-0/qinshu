@@ -1,0 +1,1 @@
+(function(){var e=class extends AudioWorkletProcessor{process(e){let t=e[0]?.[0];if(t&&t.length>0){let e=0;for(let n=0;n<t.length;n++)e+=t[n]*t[n];this.port.postMessage({time:currentTime,rms:Math.sqrt(e/t.length)})}return!0}};registerProcessor(`level`,e)})();
