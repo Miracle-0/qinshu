@@ -1,0 +1,11 @@
+X:1
+T:G 大调音阶（反向）
+M:4/4
+L:1/4
+Q:1/4=80
+%%score {RH | LH}
+V:RH clef=treble
+V:LH clef=bass
+K:G
+[V:RH] !1!G A !3!B !1!c | d e !4!f !5!g | f e d !1!c | !3!B A !1!G2 |]
+[V:LH] !1!G, F, !3!E, !1!D, | C, B,, A,, !5!G,, | A,, B,, C, !1!D, | !3!E, F, !1!G,2 |]

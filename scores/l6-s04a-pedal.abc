@@ -1,0 +1,11 @@
+X:1
+T:延音踏板练习一
+M:4/4
+L:1/4
+Q:1/4=72
+%%score {RH | LH}
+V:RH clef=treble
+V:LH clef=bass
+K:C
+[V:RH] z4 y | z4 y | z4 y | z4 y | z4 y |]
+[V:LH] "_Ped."[!5!C,!1!G,] z z2 "_*"y | "_Ped."[C,A,] z z2 "_*"y | "_Ped."[C,B,] z z2 "_*"y | "_Ped."[C,A,] z z2 "_*"y | "_Ped."[C,G,] z z2 "_*"y |]

@@ -1,0 +1,11 @@
+X:1
+T:双手节奏训练一
+M:3/4
+L:1/4
+Q:1/4=80
+%%score {RH | LH}
+V:RH clef=treble
+V:LH clef=bass
+K:C
+[V:RH] C3/2 C/ C | z3 | C3/2 C/ C | C3 |]
+[V:LH] z3 | C,3/2 C,/ C, | C, C, C, | C,2 C, |]

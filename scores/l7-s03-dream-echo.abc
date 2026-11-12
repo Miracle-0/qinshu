@@ -1,0 +1,17 @@
+X:1
+T:梦的回声
+M:4/4
+L:1/4
+Q:"Reflective" 1/4=108
+%%score {RH | LH}
+V:RH clef=treble
+V:LH clef=bass
+K:C
+[V:RH] !mf!z2 (!1!G d | c d B d) | !mp!z2 (G d | c2 d2) | !mf!z2 (!1!E B | A B G B) | !mp!z2 (E B | A2 B2) |
+[V:LH] "_Ped."!5!G, D z2 | z4 | "_*""_Ped."G, D z2 | z4 | "_*""_Ped."!5!E, B, z2 | z4 | "_*""_Ped."E, B, z2 | z4 |
+[V:RH] !mf!z2 (!1!A, E | z2 [!1!C!5!G]2) | !mp!z2 (A, E | z2 [CG]2) | !<(!z4 | ("_LH"!5!D A "^RH"!1!d a | !<)!!>(!"_LH"D A "^RH"d a | g a !>)!!fermata!^f2) |
+[V:LH] "_*""_Ped."!5!C, G, z2 | "_*""_Ped."A,, E, z2 | "_*""_Ped."C, G, z2 | "_*""_Ped."[A,,E,]2 z2 | "_*""_Ped."!5!D,, A,, "^RH"!1!D, A, | z4 | "^rit."z4 | !fermata!z4 |
+[V:RH] !mf!z2 (!1!G d | c d B d) | !mp!z2 (G d | c2 d2) | !mf!z2 (!1!E B | A B G B) | !mp!z2 (E B | A2 B2) |
+[V:LH] "_*""_Ped."!5!G, D z2 | z4 | "_*""_Ped."G, D z2 | z4 | "_*""_Ped."!5!E, B, z2 | z4 | "_*""_Ped."E, B, z2 | z4 |
+[V:RH] !mf!z2 (!1!A, E | z2 [!1!C!5!G]2) | !mp!z2 (A, E | z2 [CG]2) | !<(!z4 | ("_LH"!5!G d "^RH"!1!g d' | !<)!!>(!c' d' b d' | g2 !>)!!p!"^8va""^LH"!3!!fermata!g2) y |]
+[V:LH] "_*""_Ped."!5!C, G, z2 | "_*""_Ped."A,, E, z2 | "_*""_Ped."C, G, z2 | "_*""_Ped."[A,,E,]2 z2 | "_*""_Ped."!5!G,, D, "^RH"!1!G, D | z4 | "^rit."z4 | !fermata!z4 "_*"y |]

@@ -1,0 +1,13 @@
+X:1
+T:On Top of Old Smokey
+M:3/4
+L:1/4
+Q:"Moderato" 1/4=108
+%%score {RH | LH}
+V:RH clef=treble
+V:LH clef=bass
+K:C
+[V:RH] !mf!(!1!C | C !2!E !3!G | !5!c3 | !3!A3- | A2) (!1!F | F G A | G3- | G3- | G2) (!1!C |
+[V:LH] z | z3 | "_Ped."[C,F,A,]3 | [C,F,A,]3 | [C,F,A,]2 "_*"z | z3 | "_Ped."[C,E,G,]3 | [C,E,G,]3 | [C,E,G,]2 "_*"z |
+[V:RH] !1!C !3!E G | G3 | D3- | D2) (D/E/ | F E D | C3- | C3- | C2) y |]
+[V:LH] z3 | "_Ped."[B,,F,G,]3 | [B,,F,G,]3 | [B,,F,G,]2 "_*"z | z3 | "_Ped."[C,E,G,]3 | "_*""_Ped."[C,F,A,]3 | "_*""_Ped."[C,E,G,]2 "_*"y |]

@@ -1,0 +1,14 @@
+X:1
+T:练习曲（巴托克）
+C:贝拉·巴托克
+M:4/4
+L:1/4
+Q:"Moderato" 1/4=108
+%%score {RH | LH}
+V:RH clef=treble
+V:LH clef=bass
+K:C
+[V:RH] !f!c d e f | e2 d c | d2 c2 | d e f g | f2 e d | e2 d2 |
+[V:LH] C, D, E, F, | E,2 D, C, | D,2 C,2 | D, E, F, G, | F,2 E, D, | E,2 D,2 |
+[V:RH] e f g2 | f e d c | d4 | e2 d e | "_dim. e rit."f e d2 | c4 |]
+[V:LH] E, F, G,2 | F, E, D, C, | D,4 | E,2 D, E, | F, E, D,2 | C,4 |]

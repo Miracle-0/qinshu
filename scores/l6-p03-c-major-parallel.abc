@@ -1,0 +1,13 @@
+X:1
+T:C 大调音阶（同向）
+M:4/4
+L:1/4
+Q:1/4=80
+%%score {RH | LH}
+V:RH clef=treble
+V:LH clef=bass
+K:C
+[V:RH] !1!C D !3!E !1!F | G A !4!B !1!c | d !3!e !1!f g | a b !5!c' b |
+[V:LH] !5!C, D, E, F, | !1!G, !3!A, B, !1!C | [K:clef=treble] !4!D E F !1!G | !3!A B c B |
+[V:RH] a g !1!f !3!e | d !1!c !4!B A | G !1!F !3!E D | C2 z2 |]
+[V:LH] [K:clef=treble] !3!A !1!G F E | !4!D !1!C B, !3!A, | [K:clef=bass] !1!G, F, E, D, | C,2 z2 |]

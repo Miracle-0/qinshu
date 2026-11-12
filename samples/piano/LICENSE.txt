@@ -1,0 +1,11 @@
+钢琴采样 / Piano samples
+
+这里的 17 个 mp3（C2–C6 每小三度一个）取自 Salamander Grand Piano V3，
+作者 Alexander Holm，按 Creative Commons 署名 3.0（CC BY 3.0）许可发布。
+mp3 版本来自 Tone.js 的音频仓库：https://tonejs.github.io/audio/salamander/（https://github.com/Tonejs/audio）。
+
+The 17 mp3 files in this folder (one every minor third from C2 to C6) are from
+the Salamander Grand Piano V3 by Alexander Holm, licensed under
+Creative Commons Attribution 3.0 (CC BY 3.0): https://creativecommons.org/licenses/by/3.0/
+Original: https://archive.org/details/SalamanderGrandPianoV3
+MP3 versions from the Tone.js audio repository: https://github.com/Tonejs/audio
