@@ -1,0 +1,19 @@
+X:1
+T:练习曲（拜厄）
+C:拜厄
+C:Op.101, No.60
+M:3/4
+L:1/4
+Q:"Comodo" 1/4=96
+%%score {RH | LH}
+V:RH clef=treble
+V:LH clef=bass
+K:C
+[V:RH] !mf!(!1!A/c/ e c) | (A c A) | (!2!B/c/ d B | !3!c/B/ A e) |
+[V:LH] z3 | (!5!A,/C/ E C) | (!2!D/C/ B, D | !1!E/D/ C2) |
+[V:RH] z3 | ("_cresc."!1!A/c/ e c) | (B/c/ d c/B/ | "_dim."A) z z !fine!|]
+[V:LH] (!5!A,/C/ E C) | (A, C E) | (D/C/ B, !>!!1!E- | E !3!C/B,/ A,) |]
+[V:RH] !f!(!1!c/e/ g e) | (c e c) | (!2!d/e/ f d | !3!e/d/ c g) |
+[V:LH] z3 | [K:clef=treble] (!5!C/E/ G E) | [K:clef=treble] (!2!F/E/ D F | !1!G/F/ E2) |
+[V:RH] z3 | (!1!c/e/ g e) | (d/e/ f e/d/ | "_dim."c) z z !D.C.alfine!||
+[V:LH] [K:clef=treble] (!5!C/E/ G E) | (C E G) | [K:clef=treble] (F/E/ D !>!!1!G- | G !3!E/D/ C) ||

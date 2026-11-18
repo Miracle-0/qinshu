@@ -1,0 +1,15 @@
+X:1
+T:Scarborough Fair
+M:3/4
+L:1/4
+Q:"Moderato" 1/4=108
+%%score {RH | LH}
+V:RH clef=treble
+V:LH clef=bass
+K:C
+[V:RH] !mf!(!1!A,2 A, | E2 E | B,3/2 C/ B, | A,3- | A,) (!2!E G | A2 G |
+[V:LH] !pp![!5!A,,!1!E,] [A,,E,]2 | [A,,E,] [A,,E,]2 | [A,,F,] [A,,F,]2 | [A,,E,] [A,,E,]2 | [A,,E,]3 | [A,,E,] [A,,E,]2 |
+[V:RH] E ^F D | E2) (!5!A | A2 A | G2 E | !5!E D C |
+[V:LH] [A,,^F,]2 z | [A,,E,] [A,,E,]2 | (!3!C, E,) z | (B,, E,) z | (!5!A,, E,) z |
+[V:RH] !1!A, !2!G,) (!1!A, | !1!A,2 E | D2 C | !2!B, !1!A, !2!G, | !fermata!!3!A,3) |]
+[V:LH] !2!F,2 z | [A,,E,] [A,,E,]2 | [A,,^F,] [A,,F,]2 | ("^rit."!5!G,, D,) z | !fermata![A,,E,]3 |]
