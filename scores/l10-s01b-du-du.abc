@@ -1,0 +1,15 @@
+X:1
+T:Du, du, liegst mir am Herzen
+M:3/4
+L:1/4
+Q:"Vivace (lively)" 1/4=156
+%%score {RH | LH}
+V:RH clef=treble
+V:LH clef=bass
+K:G
+[V:RH] !mf!("G"!3!B3 | B3 | B A B | "D7"d2 c) | (A3 |
+[V:LH] !5!G, [!3!B,!1!D] [B,D] | G, [B,D] [B,D] | [!5!G,!3!B,!1!D]3 | [!5!F,!2!C!1!D]3 | !5!F, [!2!C!1!D] [CD] |
+[V:RH] A3 | A d c | "G"B3) | (B3 | B3 |
+[V:LH] F, [CD] [CD] | [F,CD]3 | [G,B,D]3 | G, [B,D] [B,D] | G, [B,D] [B,D] |
+[V:RH] B A B | "D7"d2 c) | (!1!A B c | e d !2!F | "G"!1!G3- | G3) |]
+[V:LH] [G,B,D]3 | [F,CD]3 | [F,CD]3 | [F,CD]3 | G, [B,D] [B,D] | G,3 |]

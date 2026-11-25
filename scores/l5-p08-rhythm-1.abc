@@ -1,0 +1,11 @@
+X:1
+T:节奏训练一
+M:4/4
+L:1/4
+Q:1/4=72
+%%score {RH | LH}
+V:RH clef=treble
+V:LH clef=bass
+K:C
+[V:RH] z C z C | z C z (3C/C/C/ | C z C z | C (3C/C/C/ C C |]
+[V:LH] C, z C, z | C, z C, z | z C, z C, | C, (3C,/C,/C,/ C, C, |]

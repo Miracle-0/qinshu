@@ -1,0 +1,15 @@
+X:1
+T:Country Gardens
+M:4/4
+L:1/4
+Q:"Moderato" 1/4=108
+%%score {RH | LH}
+V:RH clef=treble
+V:LH clef=bass
+K:C
+[V:RH] !mf!(!5!c c/B/ A A | G G/F/ !3!E) (E/F/ | G C D F | E3/2 D/ C2) |
+[V:LH] z4 | z4 | [C,E,G,] z [C,F,A,] z | [B,,F,G,] z [C,E,G,]2 |
+[V:RH] !mp!(!5!c c/B/ A A | G G/F/ !3!E) (E/F/ | G C D F | E3/2 D/ C2) !fine!|]
+[V:LH] z4 | z4 | [C,E,G,] z [C,F,A,] z | [B,,F,G,] z [C,E,G,]2 |]
+[V:RH] |: "_f – p"(C !3!F F A | G/A/ G/F/ E) !3!E/F/ | (G C D F | E3/2 D/ C2) !D.C.alfine!:|
+[V:LH] |: [C,F,A,]4 | [C,E,G,]4 | [C,E,G,] z [C,F,A,] z | [B,,F,G,] z [C,E,G,]2 :|

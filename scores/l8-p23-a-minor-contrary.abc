@@ -1,0 +1,13 @@
+X:1
+T:A 和声小调音阶（反向）
+M:4/4
+L:1/4
+Q:1/4=80
+%%score {RH | LH}
+V:RH clef=treble
+V:LH clef=bass
+K:Am
+[V:RH] !1!A, B, !3!C !1!D | E F !4!^G !1!A | B !3!c !1!d e | f ^g !5!a g |
+[V:LH] !1!A, ^G, !3!F, !1!E, | D, C, !4!B,, !1!A,, | ^G,, !3!F,, !1!E,, D,, | C,, B,,, !5!A,,, B,,, |
+[V:RH] f e !1!d !3!c | B !1!A !4!^G F | E !1!D !3!C B, | !1!A,2 z2 |]
+[V:LH] C,, D,, !1!E,, !3!F,, | ^G,, !1!A,, !4!B,, C, | D, !1!E, !3!F, ^G, | !1!A,2 z2 |]

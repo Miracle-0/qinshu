@@ -1,0 +1,13 @@
+X:1
+T:G 大调踏板练习
+M:3/4
+L:1/4
+Q:"Moderately slow" 1/4=76
+%%score {RH | LH}
+V:RH clef=treble
+V:LH clef=bass
+K:G
+[V:RH] "G""_mf–p"z3 | [!1!G!3!B!5!d]3 | z3 | [GBd]3 y | "C"z3 | [!1!G!3!c!5!e]3 | z3 | [Gce]3 y |
+[V:LH] "_Ped."!5!G, B, D | z3 | G, B, D | z3 "_*"y | "_Ped."!5!G, !2!C !1!E | z3 | G, C E | z3 "_*"y |
+[V:RH] "G"z3 | [GBd]3 | "D7"z3 | [!1!F!4!c!5!d]3 | z3 | [Fcd]3 | "G"z3 | [GBd]3 y :|
+[V:LH] "_Ped."G, B, D | z3 | "_*""_Ped."!5!F, !2!C !1!D | z3 | F, C D | z3 | "_*""_Ped.""^rit. 2nd time"G, B, D | z3 "_*"y :|

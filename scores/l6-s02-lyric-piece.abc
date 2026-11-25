@@ -1,0 +1,17 @@
+X:1
+T:Lyric Piece
+M:C
+L:1/4
+Q:"Adagio" 1/4=66
+%%score {RH | LH}
+V:RH clef=treble transpose=24
+V:LH clef=bass transpose=24
+K:C
+[V:RH] "^(Both hands two octaves higher""^than written throughout)"!p!!3!(E2 F2 | G2 F E | D2 E2 | F2 E D |
+[V:LH] !3!(E,2 F,2 | G,2 F, E, | D,2 E,2 | F,2 E, D, |
+[V:RH] !<(!(C2) D2 | E2 G !<)!F | "_(rit. last time)"!>(!E2 D2 | !>)!C4) !fine!:|
+[V:LH] (C,2) D,2 | E,2 G, F, | E,2 D,2 | C,4) :|
+[V:RH] !mf!!2!(D2 E2 | F2 E D | !<(!E2 F2 | !<)!!f!G4) |
+[V:LH] !4!(D,2 E,2 | F,2 E, D, | E,2 F,2 | G,4) |
+[V:RH] (G F E C) | (G F E C) | !>(!(F2 E2 | !>)!D4) !D.C.alfine!||
+[V:LH] (G, F, E, C,) | (G, F, E, C,) | (F,2 E,2 | D,4) ||

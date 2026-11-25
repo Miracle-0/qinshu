@@ -1,0 +1,13 @@
+X:1
+T:和声转位练习一
+M:3/4
+L:1/4
+Q:1/4=80
+%%score {RH | LH}
+V:RH clef=treble
+V:LH clef=bass
+K:C
+[V:RH] !1!C !3!E !5!G | [CEG]3 | !1!E !2!G !5!c | [EGc]3 |
+[V:LH] !5!C,, !3!E,, !1!G,, | [C,,E,,G,,]3 | !5!E,, !3!G,, !1!C, | [E,,G,,C,]3 |
+[V:RH] !1!G !3!c !5!e | [Gce]3 | !1!c !3!e !5!g | [ceg]3 |]
+[V:LH] !5!G,, !2!C, !1!E, | [G,,C,E,]3 | !5!C, !3!E, !1!G, | [C,E,G,]3 |]

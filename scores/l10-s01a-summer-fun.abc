@@ -1,0 +1,17 @@
+X:1
+T:G 大调合奏：Summer Fun
+M:4/4
+L:1/4
+Q:"Allegro" 1/4=120
+%%score {RH | LH}
+V:RH clef=treble
+V:LH clef=bass
+K:C
+[V:RH] !mf!z4 | z4 | !1!.G z .G z | .d z z2 |
+[V:LH] (!5!G,, A,, B,, C, | .D,) .D, .D, z | "^LH move"z4 | z4 |
+[V:RH] z4 | z4 | !4!.c z .B z | .A z z2 |
+[V:LH] (!5!G, A, B, C | .D) .D .D z | "^LH move"z4 | z4 |
+[V:RH] z4 | z4 | !1!.G z .G z | .d z z2 |
+[V:LH] (!5!G,, A,, B,, C, | .D,) .D, .D, z | "^LH move"z4 | z4 |
+[V:RH] z4 | !1!.G .G .d .d | "^LH""^over""_2".g z "^RH"!1!.G z | z4 |]
+[V:LH] "_5".G, .G, .D .D | z4 | z4 | "_5".G, z z2 |]

@@ -1,0 +1,13 @@
+X:1
+T:视奏练习一
+M:4/4
+L:1/4
+Q:1/4=80
+%%score {RH | LH}
+V:RH clef=treble
+V:LH clef=bass
+K:C
+[V:RH] !mp!(!5!c B A G | G !1!F !3!E D | C D E C | D2 G2) |
+[V:LH] C,4 | E,4 | E,4 | G,4 |
+[V:RH] (C D !3!E !1!F | G A B c | B A G B | c2 C2) |]
+[V:LH] C,4 | E,4 | G,4 | C,4 |]

@@ -1,0 +1,17 @@
+X:1
+T:库姆巴雅
+M:4/4
+L:1/4
+Q:"Andante" 1/4=76
+%%score {RH | LH}
+V:RH clef=treble
+V:LH clef=bass
+K:G
+[V:RH] !mf!(!1!G !2!B | "G"!4!d3/2 d/2 d2- | d2) ("C"e e | d4- |
+[V:LH] z2 | "_Ped."[!5!G,!3!B,!1!D]4 | [G,B,D]2 "_*""_Ped."[!5!G,!2!C!1!E]2 | "_*""_Ped."!5!G,2 [!3!B,!1!D]2 |
+[V:RH] d2) (!1!G !3!B | !5!d3/2 d/2 d2- | d2) (c B | "D7"A4- |
+[V:LH] [G,B,D]2 "_*"z2 | "_Ped."[G,B,D]4 | [G,B,D]4 | "_*""_Ped."!5!F,2 [!2!C!1!D]2 |
+[V:RH] A2) (!1!G !2!B | !4!d3/2 d/2 d2- | d2) (e e | "^4–5*"d4- |
+[V:LH] [!5!F,!2!C!1!D]2 "_*"z2 | "_Ped."[G,B,D]4 | [G,B,D]2 "_*""_Ped."[G,CE]2 | "_*""_Ped."G,2 [B,D]2 |
+[V:RH] d2) (!4!c2 | B G A A | G4- | G2) y |]
+[V:LH] [G,B,D]2 "_*""_Ped."[G,CE]2 | "_*""_Ped."[G,B,D]2 "_*""_Ped."[F,CD]2 | "_*""_Ped."[G,B,D]4- | [G,B,D]2 "_*"y |]

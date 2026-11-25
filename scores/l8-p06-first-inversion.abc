@@ -1,0 +1,13 @@
+X:1
+T:C 大调三和弦第一转位练习
+M:4/4
+L:1/4
+Q:1/4=80
+%%score {RH | LH}
+V:RH clef=treble
+V:LH clef=bass
+K:C
+[V:RH] [!1!E!2!G!5!c]4 | [FAd]4 | [GBe]4 | [Acf]4 |
+[V:LH] [!5!E,!3!G,!1!C]4 | [F,A,D]4 | [G,B,E]4 | [A,CF]4 |
+[V:RH] [Bdg]4 | [cea]4 | [dfb]4 | [egc']4 |]
+[V:LH] [B,DG]4 | [CEA]4 | [DFB]4 | [EGc]4 |]

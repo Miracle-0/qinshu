@@ -1,0 +1,11 @@
+X:1
+T:右手演奏 G 大调的伴奏和声（G 与 D7）
+M:4/4
+L:1/4
+Q:1/4=80
+%%score {RH | LH}
+V:RH clef=treble
+V:LH clef=bass
+K:C
+[V:RH] "G"[!1!G!3!B!5!d]4 | "D7"[!1!^F!4!c!5!d]4 | "G"[!1!G!3!B!5!d]4 :|
+[V:LH] z4 | z4 | z4 :|

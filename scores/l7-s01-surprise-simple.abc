@@ -1,0 +1,15 @@
+X:1
+T:惊愕交响曲（简化版）
+M:4/4
+L:1/4
+Q:"Allegro" 1/4=120
+%%score {RH | LH}
+V:RH clef=treble
+V:LH clef=bass
+K:C
+[V:RH] !p!!1!.C .C .E .E | .G .G E2 | .F .F .D .D | z4 | .C .C .E .E | .G .G E2 |
+[V:LH] z4 | z4 | z4 | !2!.B, .B, G,2 | z4 | z4 |
+[V:RH] z4 | z2 !f!.G z | !mp!!3!F2 E2 | !1!.D .D (D/E/ F/G/ | .A) .G .F .E |
+[V:LH] .C .C !5!.^F, .F, | !4!.G, z .[!4!G,!2!B,] z | z4 | z4 | z4 |
+[V:RH] .D .D D2 | !p!!1!.C .C .E .E | .G .G E2 | .F .D z2 | .C z .C z |]
+[V:LH] !2!.B, .B, B,2 | z4 | z4 | z2 !2!.B, !4!.G, | z2 .[!5!C,!3!E,!1!G,] z |]
